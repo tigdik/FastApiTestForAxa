@@ -81,6 +81,8 @@ curl -X POST "http://localhost:8000/login" \
       }'
 ```
 
+---
+
 ## Running the Application
 
 1. **Install Dependencies:**
